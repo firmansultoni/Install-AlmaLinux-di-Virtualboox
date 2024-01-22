@@ -8,5 +8,6 @@ pilih dan download file yang sesuai dengan kebutuhan
 
 selanjutnya buka Virtual Machine dan buat server baru 
 
+https://github.com/firmansultoni/Install-AlmaLinux-di-Virtualboox/issues/3#issue-2094421845
 
 
