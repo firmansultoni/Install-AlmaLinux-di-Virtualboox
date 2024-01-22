@@ -45,4 +45,4 @@ jika tampil seperti gambar di bawah ini maka anda berhasil menginstall OS AlmaLi
 
 ![CamScanner 22-01-2024 23 20n_13](https://github.com/firmansultoni/Install-AlmaLinux-di-Virtualboox/assets/113542409/49c544e4-92a6-4f4e-9f4a-e30b537ee7d3)
 
-selanjutnya buka terminal di OS AlmaLinux dan uji coba
+selanjutnya buka terminal di OS AlmaLinux dan uji coba <ping>
