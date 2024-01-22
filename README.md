@@ -45,4 +45,11 @@ jika tampil seperti gambar di bawah ini maka anda berhasil menginstall OS AlmaLi
 
 ![CamScanner 22-01-2024 23 20n_13](https://github.com/firmansultoni/Install-AlmaLinux-di-Virtualboox/assets/113542409/49c544e4-92a6-4f4e-9f4a-e30b537ee7d3)
 
-selanjutnya buka terminal di OS AlmaLinux dan uji coba <ping>
+selanjutnya buka terminal di OS AlmaLinux dan uji coba   `ping www.google.com`
+
+![CamScanner 22-01-2024 23 20n_14](https://github.com/firmansultoni/Install-AlmaLinux-di-Virtualboox/assets/113542409/d47f9b91-3886-4577-a94e-b2bddedb7447)
+
+selanjutnya uji cek alamat ip server yang telah kita buat  `ifconfig` atau `ip addr`
+
+![CamScanner 22-01-2024 23 20n_15](https://github.com/firmansultoni/Install-AlmaLinux-di-Virtualboox/assets/113542409/001a816f-ccd4-454b-9b8e-2f2541031bd0)
+
